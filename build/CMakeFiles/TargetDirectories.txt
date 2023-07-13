@@ -1,0 +1,5 @@
+/home/joshua/repos/SpanExample/build/CMakeFiles/rebuild_cache.dir
+/home/joshua/repos/SpanExample/build/CMakeFiles/edit_cache.dir
+/home/joshua/repos/SpanExample/build/CMakeFiles/span_example.dir
+/home/joshua/repos/SpanExample/build/src/CMakeFiles/rebuild_cache.dir
+/home/joshua/repos/SpanExample/build/src/CMakeFiles/edit_cache.dir

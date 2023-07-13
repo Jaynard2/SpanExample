@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joshua/repos/SpanExample/build",
+  "command": "/usr/bin/g++-11    -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/span_example.dir/src/main.cpp.o -c /home/joshua/repos/SpanExample/src/main.cpp",
+  "file": "/home/joshua/repos/SpanExample/src/main.cpp"
+}
+]
